@@ -1,8 +1,8 @@
 # 📕 Today I Learned
 
-## This is Holly👋
+### This is Holly👋
 
-## I'm from South Korea, living in Cork, Ireland.
+### I'm from South Korea, living in Cork, Ireland.
 
 Everyday, We are learning new things.
 
